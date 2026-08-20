@@ -1,0 +1,47 @@
+--  Season 1 — LOD 2023 — 12 players
+--  QB: Mahomes(1), Allen(8)
+--  WR: Jefferson(2), Hill(6), Adams(9)
+--  RB: McCaffrey(3), Ekeler(10), Pollard(12)
+--  TE: Kelce(4), Andrews(11)
+--  K:  Butker(13)
+--  FLEX: Barkley(7)
+
+--  Season 2 — LOD 2024 — 12 players
+--  QB: Mahomes(1), Jackson(5)
+--  WR: Jefferson(2), St. Brown(14), Nacua(17)
+--  RB: McCaffrey(3), Achane(16), Barkley(7)
+--  TE: Kelce(4), LaPorta(15)
+--  K:  Moody(18)
+--  FLEX: Hill(6)
+
+--  Season 3 — LOD 2025 — 12 players
+--  QB: Mahomes(1), Daniels(19)
+--  WR: Jefferson(2), Odunze(20), Hill(6)
+--  RB: Robinson(21), Barkley(7), McCaffrey(3)
+--  TE: McBride(22), Kelce(4)
+--  K:  McPherson(23)
+--  FLEX: Mahomes(1)
+
+--  Season 4 — BBZ 2023 — 12 players
+--  QB: Jackson(5), Allen(8)
+--  WR: Hill(6), Diggs(24), Jefferson(2)
+--  RB: Barkley(7), White(25), Ekeler(10)
+--  TE: Waller(26), Andrews(11)
+--  K:  McPherson(27)
+--  FLEX: McCaffrey(3)
+
+--  Season 5 — BBZ 2024 — 12 players
+--  QB: Jackson(5), Mahomes(1)
+--  WR: Lamb(28), Hill(6), Jefferson(2)
+--  RB: Barkley(7), Williams(29), McCaffrey(3)
+--  TE: LaPorta(15), Kraft(30)
+--  K:  Aubrey(31)
+--  FLEX: Kelce(4)
+
+--  Season 6 — BBZ 2025 — 12 players
+--  QB: Daniels(19), Jackson(5)
+--  WR: Thomas Jr.(32), Lamb(28), Odunze(20)
+--  RB: Robinson(21), Brooks(33), Barkley(7)
+--  TE: Stover(34), McBride(22)
+--  K:  Boswell(35)
+--  FLEX: Jefferson(2)
